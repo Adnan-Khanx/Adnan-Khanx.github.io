@@ -369,7 +369,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/warehouse.jpg);">
+					<a href="#" class="work" style="background-image: url(images/price.jpg);">
 						<div class="desc">
 							<h3>Buidling a Data Warehouse for Pakistan Leading Insurance Company</h3>
 							<span>Being the part of the talented team of Analytics in setting up the Data Warehouse for Pakistan leading insurance company. The tools and technology involve were SQL Server, Talend, IBM Cognos and Vertica </span>
